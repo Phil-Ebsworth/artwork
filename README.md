@@ -1,6 +1,5 @@
 # Artwork
 
-<html lang="en">
 <body style="background-color: #dfe6ea; color: #2f2f2f;">
 <div class="logo" style="background-color: #e2e8ec;">
 <a href="https://polarity-lang.github.io/">
@@ -46,4 +45,3 @@
 <p>The design is intended to reflect the Arctic, maintaining the polar theme of the language.</p>
 </div>
 </body>
-</html>
